@@ -4,7 +4,7 @@ Sistema móvil y web para la gestión eficiente del centro de acopio de leche, o
 
 ## Integrantes
 * Abraham Kevin Apaza Ccasa - [Abraham-K-C](https://github.com/Abraham-K-C)
-* Jhon Franklin Ramos Paredes - [JhonFranklin951](https://github.com/JhonFranklin951)
+*  - [JhonFranklin951](https://github.com/JhonFranklin951)
 * Lenin Jhosef Ortiz Mayta - [Jhosef](https://github.com/Jhosef)
 
 ---
