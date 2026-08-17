@@ -11,7 +11,6 @@ Sistema móvil y web para la gestión eficiente del centro de acopio de leche, o
 
 ## Idea del Proyecto
 
- AcopiaSoft nace como una solución integral para digitalizar la recolección y acopio de leche en áreas rurales. Actualmente, la captura de datos (litros entregados, densidad, acidez y pagos) se realiza de forma manual en papel, lo que genera errores de cálculo, pérdida de información y falta de transparencia con los ganaderos/productores.
 
 ### Módulo Móvil (Desarrollo de Aplicaciones Móviles)
 * **Registro de Entregas en Campo:** Permitir a los acopiadores/recolectores registrar la cantidad de litros recibidos e ingresar los parámetros de control de calidad desde un teléfono o tablet.
